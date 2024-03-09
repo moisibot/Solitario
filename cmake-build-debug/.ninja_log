@@ -30,3 +30,15 @@
 2	583	1709962860103495184	CMakeFiles/Solitario.dir/Cartasdirec/Interfaz.cpp.o	cc8ec6c00163713d
 2	50	1709886408004121475	CMakeFiles/Solitario.dir/Doublylinkedlist.cpp.o	bb502f8df54e9b0f
 2	640	1709961486236238566	CMakeFiles/Solitario.dir/colasypilas/Pilas.cpp.o	fec09116809d6c45
+1	458	1709963848683294177	CMakeFiles/Solitario.dir/main.cpp.o	57892080def7c0fb
+2	482	1709963848707293883	CMakeFiles/Solitario.dir/colasypilas/Pilas.cpp.o	fec09116809d6c45
+1	504	1709963848731293588	CMakeFiles/Solitario.dir/colasypilas/Colas.cpp.o	89ed450cc321fab5
+2	544	1709963848771293097	CMakeFiles/Solitario.dir/colasypilas/Listas.cpp.o	5d1a6bf2099610c9
+2	570	1709963848795292802	CMakeFiles/Solitario.dir/colasypilas/EnlacesDobles.cpp.o	33d660a115c9885c
+1	589	1709963848815292556	CMakeFiles/Solitario.dir/colasypilas/Nodos.cpp.o	1a97df1693f67718
+458	1068	1709963849295286658	CMakeFiles/Solitario.dir/colasypilas/NodoDoble.cpp.o	bfdff5a010715f70
+482	1115	1709963849343286067	CMakeFiles/Solitario.dir/Cartasdirec/PushPop.cpp.o	95323800ffd13592
+504	1127	1709963849355285919	CMakeFiles/Solitario.dir/Cartasdirec/Interfaz.cpp.o	cc8ec6c00163713d
+1127	1200	1709963849427285035	Solitario	5a658bb49d4624d5
+1	390	1709963892110760552	CMakeFiles/Solitario.dir/Cartasdirec/Interfaz.cpp.o	cc8ec6c00163713d
+390	445	1709963892162759914	Solitario	5a658bb49d4624d5

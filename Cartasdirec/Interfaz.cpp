@@ -59,7 +59,7 @@ void Interfaz::MostrarColumas(Pila pila, int columna) {
 void Interfaz::CrearTablero() {
     cout << endl;
     MostrarCartas();
-    cout << "\t\t   <3  <>  EB ¡!" << endl << endl;
+
     cout << "\t\t\t   ";
     for (int i = 1; i <= 7; ++i) {
         cout << i << "       ";
