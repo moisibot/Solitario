@@ -1,6 +1,3 @@
-//
-// Created by moisibot on 8/03/24.
-//
 
 #ifndef SOLITARIO_PILAS_H
 #define SOLITARIO_PILAS_H

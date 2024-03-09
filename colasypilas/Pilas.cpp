@@ -1,6 +1,3 @@
-//
-// Created by moisibot on 8/03/24.
-//
 
 #include "Pilas.h"
 #include "../Cartasdirec/Cartas.h"

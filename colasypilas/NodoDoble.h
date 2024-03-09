@@ -1,6 +1,3 @@
-//
-// Created by moisibot on 8/03/24.
-//
 
 #ifndef SOLITARIO_NODODOBLE_H
 #define SOLITARIO_NODODOBLE_H

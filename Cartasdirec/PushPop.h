@@ -1,6 +1,3 @@
-//
-// Created by moisibot on 8/03/24.
-//
 
 #ifndef SOLITARIO_PUSHPOP_H
 #define SOLITARIO_PUSHPOP_H
@@ -18,13 +15,13 @@ private:
     Pila baseNo2;
     Pila baseNo3;
     Pila baseNo4;
-    Pila a1;  //Columna 1
-    Pila b1;  //columna 2
-    Pila c1;  //columna 3
-    Pila d1;  //columna 4
-    Pila e1;  //columna 5
-    Pila f1;  //columna 6
-    Pila g1;  //columna 7
+    Pila a1;
+    Pila b1;
+    Pila c1;
+    Pila d1;
+    Pila e1;
+    Pila f1;
+    Pila g1;
 
     void agregar();
 

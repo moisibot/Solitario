@@ -1,6 +1,3 @@
-//
-// Created by moisibot on 8/03/24.
-//
 
 #ifndef SOLITARIO_LISTAS_H
 #define SOLITARIO_LISTAS_H

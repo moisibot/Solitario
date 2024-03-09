@@ -1,6 +1,4 @@
-//
-// Created by moisibot on 8/03/24.
-//
+
 
 #ifndef SOLITARIO_INTERFAZ_H
 #define SOLITARIO_INTERFAZ_H
